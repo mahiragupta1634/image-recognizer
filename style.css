@@ -1,0 +1,29 @@
+body{
+    background-color: plum;
+    color: rgb(115, 96, 168);
+}
+
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+}
+
+.Name_of_objects
+{
+    color: teal;
+    font-size: 20px;
+}
+
+#camera
+{
+    border: 2px dashed turquoise;
+    width: 400px;
+    height: 350px;
+
+}
+
+#result_object_name,#result_object_accuracy
+{
+    color: white;
+}
